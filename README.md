@@ -1,4 +1,8 @@
-https://www.thecocktaildb.com/api.php[https://www.thecocktaildb.com/api.php]
+https://www.thecocktaildb.com/api.php
+
+npx create-react-app nome-projeto
+npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
